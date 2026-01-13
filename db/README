@@ -1,0 +1,16 @@
+# Database Setup for Hackathon Project
+
+This folder contains all the database scripts for our hackathon project.
+
+## Files
+- `schema.sql`: Contains CREATE TABLE statements.
+- `queries.sql`: Contains sample INSERT statements for demo/testing.
+
+## How to Use
+1. Create a local database (MySQL or PostgreSQL).
+2. Run `schema.sql` to create tables.
+3. Run `queries.sql` to insert sample data.
+
+## Notes
+- The DB is designed to support the backend APIs.
+- Any updates to tables or queries should be added here and pushed to GitHub.
